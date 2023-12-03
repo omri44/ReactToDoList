@@ -113,3 +113,18 @@
         transform: rotate(360deg);
     }
 }
+
+.clear-all-button {
+    background-color: #ff0000; 
+    color: #fff; 
+    padding: 10px 15px; 
+    font-size: 16px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+  }
+  
+  .clear-all-button:hover {
+    background-color: #cc0000;
+  }
